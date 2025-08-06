@@ -1,14 +1,40 @@
 <div align="center">
 
-# Netflix-Landing-Page
-Netflix Landing Page Clone made with HTML, CSS and JAVASCRIPT. I have also made it responsive to work on various devices.
+# Netvlyx.ku - Watch & Download Movies | Netflix.ku Alternative
 
-<br>
+Netvlyx.ku is a modern landing page for a free streaming platform that allows users to discover, stream, and download movies and shows from popular sources on the internet.
 
+## Features
 
-## 📸 Screenshot
+- **Free Streaming**: Access unlimited movies and TV shows without any subscription
+- **Download Capability**: Download content in multiple qualities (360p, 480p, 720p, 1080p)
+- **Ad-Free Experience**: Unlike most free streaming sites, Netvlyx is designed to be ad-free
+- **Multi-Device Support**: Works on smartphones, tablets, laptops, and smart TVs
+- **No Account Required**: Use without creating an account (optional sign-in for extra features)
 
-![Netflix_Landing_Page](https://github.com/mohitpanthri/Netflix-Landing-Page/assets/99413629/48295b32-c38a-4872-a937-e69dda7bfbab)
+## SEO Optimized
+
+- Complete meta tags and Open Graph tags
+- Structured data for better search engine visibility
+- Sitemap.xml and robots.txt for proper indexing
+- llm.txt for AI language model crawling
+- Optimized for ranking on search engines
+
+## Technologies Used
+
+- HTML5
+- CSS3 with responsive design
+- JavaScript for interactive elements
+- FontAwesome icons
+- Google Fonts (Poppins)
+
+## Live Demo
+
+Visit: [https://netvlyx.ku](https://netvlyx.ku)
+
+## Main Platform
+
+The actual streaming platform is available at: [https://netvlyx.vercel.app](https://netvlyx.vercel.app)
 
 
 <br>
