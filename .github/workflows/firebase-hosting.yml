@@ -36,7 +36,7 @@ jobs:
           echo '{"projects":{"default":"netvlyx-ku"}}' > .firebaserc
           echo '{
             "hosting": {
-            "site": "netvlyx-web",
+            "site": "netvlyx",
               "public": ".",
               "ignore": [
                 "firebase.json",
