@@ -33,7 +33,7 @@ jobs:
         
       - name: Create Firebase config
         run: |
-          echo '{"projects":{"default":"brajesh-47029"}}' > .firebaserc
+          echo '{"projects":{"default":"netvlyx-ku"}}' > .firebaserc
           echo '{
             "hosting": {
               "public": ".",
@@ -58,6 +58,6 @@ jobs:
         run: |
           echo '${{ secrets.FIREBASE_SERVICE_ACCOUNT }}' > serviceAccount.json
           export GOOGLE_APPLICATION_CREDENTIALS=serviceAccount.json
-          firebase deploy --only hosting --project brajesh-47029 --non-interactive
+          firebase deploy --only hosting --project netvlyx-ku --non-interactive
         env:
           FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
